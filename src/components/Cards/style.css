@@ -1,0 +1,13 @@
+*{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;;
+}
+.one{
+    height: 80px;
+    width: 102px;
+    margin: auto;
+    margin-top: 10px;
+
+}
+.blue{
+background: blue;
+}
